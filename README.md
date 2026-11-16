@@ -107,7 +107,7 @@ I developed three interactive dashboards to present the findings through KPIs, c
 - Customer Type
 - Class
 
-<img width="1322" height="737" alt="Airline Service Quality Analysis - Dashboard 1" src="https://github.com/user-attachments/assets/5e47938f-5770-4491-aa8f-dda497ea3b64" />
+<img width="1322" height="737" alt="Airline Passenger Satisfaction -  Dashboard 3" src="https://github.com/user-attachments/assets/110861a1-cb96-4410-93b9-5472a829a9e9" />
 
 #### Dashboard 2: Passenger Demographics & Travel Analysis
 
@@ -152,8 +152,7 @@ I developed three interactive dashboards to present the findings through KPIs, c
 - Customer Type
 - Travel Purpose
 
-
-<img width="1322" height="737" alt="Airline Passenger Satisfaction -  Dashboard 3" src="https://github.com/user-attachments/assets/110861a1-cb96-4410-93b9-5472a829a9e9" />
+<img width="1322" height="737" alt="Airline Service Quality Analysis - Dashboard 1" src="https://github.com/user-attachments/assets/5e47938f-5770-4491-aa8f-dda497ea3b64" />
 
 
 ## 📈 Key Findings
