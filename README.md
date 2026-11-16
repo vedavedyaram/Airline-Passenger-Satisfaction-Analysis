@@ -107,7 +107,7 @@ I developed three interactive dashboards to present the findings through KPIs, c
 - Customer Type
 - Class
 
-![Airline Passenger Satisfaction Dashboard](PowerBI/Airline%20Passenger%20Satisfaction%20-%20Dashboard%203.png)
+<img width="1322" height="737" alt="Airline Service Quality Analysis - Dashboard 1" src="https://github.com/user-attachments/assets/5e47938f-5770-4491-aa8f-dda497ea3b64" />
 
 #### Dashboard 2: Passenger Demographics & Travel Analysis
 
@@ -129,7 +129,7 @@ I developed three interactive dashboards to present the findings through KPIs, c
 - Age Group
 - Customer Type
 
-![Passenger Demographics Dashboard](PowerBI/Passenger%20Demographics%20%26%20Travel%20Analysis%20-%20Dashboard%202.png)
+<img width="1326" height="737" alt="Passenger Demographics   Travel Analysis - Dashboard 2" src="https://github.com/user-attachments/assets/94f1076f-8bac-4a46-8972-ae37f031e492" />
 
 #### Dashboard 3: Airline Service Quality Analysis
 
@@ -151,8 +151,6 @@ I developed three interactive dashboards to present the findings through KPIs, c
 - Class
 - Customer Type
 - Travel Purpose
-
-![Airline Service Quality Dashboard](PowerBI/Airline%20Service%20Quality%20Analysis%20-%20Dashboard%201.png)
 
 
 <img width="1322" height="737" alt="Airline Passenger Satisfaction -  Dashboard 3" src="https://github.com/user-attachments/assets/110861a1-cb96-4410-93b9-5472a829a9e9" />
