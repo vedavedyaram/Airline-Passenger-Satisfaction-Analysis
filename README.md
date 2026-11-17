@@ -86,6 +86,10 @@ I used MySQL to perform structured queries and analyse passenger information.
 
 ### 3. Power BI – Interactive Dashboard Development
 
+### ✈️ 1. Dashboard Introduction
+
+<img width="1328" height="735" alt="Screenshot 2026-11-17 104004" src="https://github.com/user-attachments/assets/fd90e863-d09f-4dda-b4f0-40b3bc89fba4" />
+
 I developed three interactive dashboards to present the findings through KPIs, charts, tables and slicers.
 
 #### Dashboard 1: Airline Passenger Satisfaction – Executive Overview
